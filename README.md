@@ -56,7 +56,7 @@ python decrypt_ransomware.py
 .
 ├── ransomware.py          # Script de criptografia
 ├── decrypter.py           # Script de descriptografia
-├── Encrypter.py           # Dependências do projeto
+├── requirements.txt       # Dependências do projeto
 └── README.md              # Documentação
 ```
 
